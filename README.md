@@ -1,6 +1,7 @@
 I have created comprehensive Project in Power BI to create multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data wrangling using Power Query, and data visualization
 
-# Description: This project focused on analyzing HR data to gain insights into employee performance, retention rates, and workforce trends. By leveraging data-driven approaches, the analysis helped organizations improve talent management strategies, enhance employee satisfaction, and reduce attrition. Conduct an in-depth analysis of HR data to uncover key insights into employee performance, retention rates, and workforce trends. The findings supported data-driven decision-making in talent management and employee satisfaction strategies
+# Description: 
+This project focused on analyzing HR data to gain insights into employee performance, retention rates, and workforce trends. By leveraging data-driven approaches, the analysis helped organizations improve talent management strategies, enhance employee satisfaction, and reduce attrition. Conduct an in-depth analysis of HR data to uncover key insights into employee performance, retention rates, and workforce trends. The findings supported data-driven decision-making in talent management and employee satisfaction strategies
 
 # insights gained from analysis:
 1.	Majority of attrition comes from Married individuals (48.8%), followed by Single (37.01%), and Divorced (14.17%). Single employees have the highest attrition count, with females having a slightly higher attrition rate than males.
