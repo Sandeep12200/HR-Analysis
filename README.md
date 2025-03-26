@@ -1,9 +1,8 @@
-I have created comprehensive Project in Power BI to create multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data wrangling using Power Query, and data visualization
-
-# Description: 
+# HR Analysis
+## Description: 
 This project focused on analyzing HR data to gain insights into employee performance, retention rates, and workforce trends. By leveraging data-driven approaches, the analysis helped organizations improve talent management strategies, enhance employee satisfaction, and reduce attrition. Conduct an in-depth analysis of HR data to uncover key insights into employee performance, retention rates, and workforce trends. The findings supported data-driven decision-making in talent management and employee satisfaction strategies
 
-# insights gained from analysis:
+## insights gained from analysis:
 1.	Majority of attrition comes from Married individuals (48.8%), followed by Single (37.01%), and Divorced (14.17%). Single employees have the highest attrition count, with females having a slightly higher attrition rate than males.
 2.	The highest attrition rate is in the 25-30 age group , followed by 30-35 , and 18-25 age group. The 35-42 & >42 age group has the lowest attrition rate.
 3.	Individuals from Life Sciences has the highest attrition rate (93), followed by Medical (69), and Marketing (38). The Human Resources field has the lowest attrition rate (7).
@@ -17,7 +16,7 @@ This project focused on analyzing HR data to gain insights into employee perform
 11. Attrition Count is highest for employees with a work-life balance rating of 1 and 2. This might indicate that employees who are not satisfied with their work-life balance are more likely to leave.
 12.	Majority of attrition comes from employees who do not work overtime (51.9%). And Sales department has the highest attrition count, with both overtime and non-overtime employees having significant numbers.
 
-# Recommendations:
+## Recommendations:
 1. Focus on Married Employees and Single Females: Develop specific retention programs or initiatives for married employees and single females, as they seem to be more prone to attrition. Implement flexible work arrangements, childcare subsidies, or stress management programs to address potential work-life balance issues.
 2. Prioritize the >35 Age Group: Provide opportunities for career advancement and skill development to retain valuable employees in this age group. Implement mentorship programs to help employees in this age group navigate career transitions and challenges.
 3. Address Attrition in Life Sciences and Medical Fields: Ensure that compensation and benefits packages are competitive to retain talent in these high-demand fields. Offer professional development opportunities and certifications to keep employees engaged and motivated.
