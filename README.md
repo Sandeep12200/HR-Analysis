@@ -1,0 +1,1 @@
+I have created comprehensive Project in Power BI to create multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data wrangling using Power Query, and data visualization
